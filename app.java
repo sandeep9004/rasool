@@ -1,7 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    float myNum = 6.700f;
-    System.out.println sandeep;  
+    float myNum = 5.75f;
+    System.out.println(myNum);  
   }
 }
-
